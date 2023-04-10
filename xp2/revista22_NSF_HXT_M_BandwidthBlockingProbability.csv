@@ -1,0 +1,399 @@
+Metrics,LoadPoint,Bandwidth,src,dest, ,rep0
+Bandwidth blocking probability,0,all,all,all, ,0.26568748290865
+
+
+General requested bandwidth,0,all,all,all, ,2.0054656297910102E15
+
+
+Blocking probability by lack of transmitters,0,all,all,all, ,0.004382949054022071
+
+
+Blocking probability by lack of receivers,0,all,all,all, ,0.010110351985204933
+
+
+Blocking probability by fragmentation,0,all,all,all, ,0.0
+
+
+Blocking probability by QoTN,0,all,all,all, ,0.0
+
+
+Blocking probability by QoTO,0,all,all,all, ,0.0
+
+
+Blocking probability by other,0,all,all,all, ,6.507922730570787E-4
+
+
+Blocking probability by Crosstalk,0,all,all,all, ,0.25054338959636585
+
+
+Bandwidth blocking probabilities per pair,0,all,5,1, ,0.13934213332874396
+Bandwidth blocking probabilities per pair,0,all,9,14, ,0.0
+Bandwidth blocking probabilities per pair,0,all,9,5, ,0.6495802299116304
+Bandwidth blocking probabilities per pair,0,all,13,2, ,0.5159730260433162
+Bandwidth blocking probabilities per pair,0,all,14,3, ,0.0
+Bandwidth blocking probabilities per pair,0,all,2,8, ,0.7875122029272271
+Bandwidth blocking probabilities per pair,0,all,7,9, ,0.25705292812034897
+Bandwidth blocking probabilities per pair,0,all,3,1, ,0.0
+Bandwidth blocking probabilities per pair,0,all,4,2, ,0.02574383957571755
+Bandwidth blocking probabilities per pair,0,all,7,3, ,0.72145770000576
+Bandwidth blocking probabilities per pair,0,all,11,8, ,0.4361198416754709
+Bandwidth blocking probabilities per pair,0,all,7,1, ,0.0
+Bandwidth blocking probabilities per pair,0,all,3,10, ,0.0
+Bandwidth blocking probabilities per pair,0,all,14,13, ,0.0
+Bandwidth blocking probabilities per pair,0,all,4,12, ,0.03174309309066136
+Bandwidth blocking probabilities per pair,0,all,8,11, ,0.34467153583505833
+Bandwidth blocking probabilities per pair,0,all,8,6, ,0.5276827069083474
+Bandwidth blocking probabilities per pair,0,all,1,10, ,0.6043162295359901
+Bandwidth blocking probabilities per pair,0,all,9,11, ,0.0
+Bandwidth blocking probabilities per pair,0,all,5,7, ,0.0
+Bandwidth blocking probabilities per pair,0,all,12,3, ,0.7993361523429254
+Bandwidth blocking probabilities per pair,0,all,4,5, ,0.024506695105576966
+Bandwidth blocking probabilities per pair,0,all,13,6, ,0.13464643271518784
+Bandwidth blocking probabilities per pair,0,all,5,3, ,0.32369678961891307
+Bandwidth blocking probabilities per pair,0,all,7,14, ,0.6066639872595648
+Bandwidth blocking probabilities per pair,0,all,1,8, ,0.0
+Bandwidth blocking probabilities per pair,0,all,1,12, ,0.4664068144585129
+Bandwidth blocking probabilities per pair,0,all,9,8, ,0.05645699895075508
+Bandwidth blocking probabilities per pair,0,all,7,5, ,0.0
+Bandwidth blocking probabilities per pair,0,all,8,9, ,0.0
+Bandwidth blocking probabilities per pair,0,all,11,4, ,0.052252385028867296
+Bandwidth blocking probabilities per pair,0,all,13,5, ,0.7860756504555376
+Bandwidth blocking probabilities per pair,0,all,10,13, ,0.0
+Bandwidth blocking probabilities per pair,0,all,3,7, ,0.6671000251833977
+Bandwidth blocking probabilities per pair,0,all,10,7, ,0.0
+Bandwidth blocking probabilities per pair,0,all,8,5, ,0.0
+Bandwidth blocking probabilities per pair,0,all,10,1, ,0.7320502446462706
+Bandwidth blocking probabilities per pair,0,all,11,6, ,0.0428209623583405
+Bandwidth blocking probabilities per pair,0,all,5,6, ,0.11858234639449754
+Bandwidth blocking probabilities per pair,0,all,9,2, ,0.9130464477146683
+Bandwidth blocking probabilities per pair,0,all,12,13, ,0.0
+Bandwidth blocking probabilities per pair,0,all,6,11, ,0.011380131187389486
+Bandwidth blocking probabilities per pair,0,all,3,11, ,0.446997795199067
+Bandwidth blocking probabilities per pair,0,all,5,4, ,0.03812456046768108
+Bandwidth blocking probabilities per pair,0,all,4,3, ,0.033980622160031636
+Bandwidth blocking probabilities per pair,0,all,4,9, ,0.32467845201939366
+Bandwidth blocking probabilities per pair,0,all,11,2, ,0.279387532476734
+Bandwidth blocking probabilities per pair,0,all,4,6, ,0.05388934294800106
+Bandwidth blocking probabilities per pair,0,all,5,8, ,0.0
+Bandwidth blocking probabilities per pair,0,all,12,4, ,0.07738968813007865
+Bandwidth blocking probabilities per pair,0,all,2,3, ,0.0
+Bandwidth blocking probabilities per pair,0,all,13,1, ,0.4386331877964111
+Bandwidth blocking probabilities per pair,0,all,1,11, ,0.4450236447775861
+Bandwidth blocking probabilities per pair,0,all,8,14, ,0.4680590625870611
+Bandwidth blocking probabilities per pair,0,all,12,14, ,0.0
+Bandwidth blocking probabilities per pair,0,all,8,4, ,0.1538220288424623
+Bandwidth blocking probabilities per pair,0,all,4,7, ,0.0063038341737086025
+Bandwidth blocking probabilities per pair,0,all,8,1, ,0.0
+Bandwidth blocking probabilities per pair,0,all,2,13, ,0.6326856019606042
+Bandwidth blocking probabilities per pair,0,all,7,8, ,0.0
+Bandwidth blocking probabilities per pair,0,all,6,9, ,0.09102615242206503
+Bandwidth blocking probabilities per pair,0,all,5,2, ,0.1805432276370746
+Bandwidth blocking probabilities per pair,0,all,8,3, ,0.9322812267544206
+Bandwidth blocking probabilities per pair,0,all,14,1, ,0.6830982499546173
+Bandwidth blocking probabilities per pair,0,all,12,1, ,0.42643775651546356
+Bandwidth blocking probabilities per pair,0,all,5,12, ,0.8492888693770891
+Bandwidth blocking probabilities per pair,0,all,6,13, ,0.08158823101274106
+Bandwidth blocking probabilities per pair,0,all,12,9, ,0.0
+Bandwidth blocking probabilities per pair,0,all,1,14, ,0.7487297546009418
+Bandwidth blocking probabilities per pair,0,all,10,2, ,0.659840429881721
+Bandwidth blocking probabilities per pair,0,all,10,8, ,0.5024300499463519
+Bandwidth blocking probabilities per pair,0,all,12,5, ,0.831583733063562
+Bandwidth blocking probabilities per pair,0,all,8,13, ,0.3751278132425758
+Bandwidth blocking probabilities per pair,0,all,1,7, ,0.0
+Bandwidth blocking probabilities per pair,0,all,9,1, ,0.03684627721080322
+Bandwidth blocking probabilities per pair,0,all,6,4, ,0.11989985426735007
+Bandwidth blocking probabilities per pair,0,all,14,2, ,0.888054142291852
+Bandwidth blocking probabilities per pair,0,all,7,12, ,0.7625645416434393
+Bandwidth blocking probabilities per pair,0,all,11,10, ,0.06739856303610776
+Bandwidth blocking probabilities per pair,0,all,1,9, ,0.0476088672434785
+Bandwidth blocking probabilities per pair,0,all,6,5, ,0.032366616648850564
+Bandwidth blocking probabilities per pair,0,all,7,10, ,0.0
+Bandwidth blocking probabilities per pair,0,all,12,11, ,0.0
+Bandwidth blocking probabilities per pair,0,all,9,3, ,0.3989666618584051
+Bandwidth blocking probabilities per pair,0,all,4,1, ,0.015649828981102523
+Bandwidth blocking probabilities per pair,0,all,7,6, ,0.03911390172936567
+Bandwidth blocking probabilities per pair,0,all,11,9, ,0.0
+Bandwidth blocking probabilities per pair,0,all,9,12, ,0.005080515246128789
+Bandwidth blocking probabilities per pair,0,all,5,13, ,0.7862472601006565
+Bandwidth blocking probabilities per pair,0,all,9,13, ,0.0
+Bandwidth blocking probabilities per pair,0,all,13,12, ,0.0
+Bandwidth blocking probabilities per pair,0,all,1,6, ,0.09057212768113038
+Bandwidth blocking probabilities per pair,0,all,2,9, ,0.7672316525535426
+Bandwidth blocking probabilities per pair,0,all,2,10, ,0.5723202817093982
+Bandwidth blocking probabilities per pair,0,all,1,3, ,0.0
+Bandwidth blocking probabilities per pair,0,all,9,6, ,0.039621797807824995
+Bandwidth blocking probabilities per pair,0,all,8,2, ,0.8049709907449089
+Bandwidth blocking probabilities per pair,0,all,13,11, ,0.0
+Bandwidth blocking probabilities per pair,0,all,5,10, ,0.0
+Bandwidth blocking probabilities per pair,0,all,7,2, ,0.6612195236756985
+Bandwidth blocking probabilities per pair,0,all,4,11, ,0.0045110332727076536
+Bandwidth blocking probabilities per pair,0,all,13,10, ,0.0
+Bandwidth blocking probabilities per pair,0,all,10,14, ,0.32373150641800363
+Bandwidth blocking probabilities per pair,0,all,12,6, ,0.05350363427080702
+Bandwidth blocking probabilities per pair,0,all,14,8, ,0.5083957824793389
+Bandwidth blocking probabilities per pair,0,all,2,7, ,0.7110736391129167
+Bandwidth blocking probabilities per pair,0,all,9,7, ,0.18308722289352053
+Bandwidth blocking probabilities per pair,0,all,4,10, ,0.02366492370038906
+Bandwidth blocking probabilities per pair,0,all,1,4, ,0.1409879096557903
+Bandwidth blocking probabilities per pair,0,all,2,12, ,0.7138349843789173
+Bandwidth blocking probabilities per pair,0,all,5,9, ,0.6312273045758106
+Bandwidth blocking probabilities per pair,0,all,11,7, ,0.6465539732291029
+Bandwidth blocking probabilities per pair,0,all,6,7, ,0.006745239130871124
+Bandwidth blocking probabilities per pair,0,all,2,4, ,0.052418829724737395
+Bandwidth blocking probabilities per pair,0,all,2,6, ,0.0297922886598574
+Bandwidth blocking probabilities per pair,0,all,6,2, ,0.042092779305269855
+Bandwidth blocking probabilities per pair,0,all,14,12, ,0.0
+Bandwidth blocking probabilities per pair,0,all,11,1, ,0.4641640008597924
+Bandwidth blocking probabilities per pair,0,all,3,5, ,0.3878429388318927
+Bandwidth blocking probabilities per pair,0,all,3,2, ,0.0
+Bandwidth blocking probabilities per pair,0,all,7,13, ,0.5236062420927551
+Bandwidth blocking probabilities per pair,0,all,2,11, ,0.4013350903191282
+Bandwidth blocking probabilities per pair,0,all,11,12, ,0.0
+Bandwidth blocking probabilities per pair,0,all,13,8, ,0.3300841190805327
+Bandwidth blocking probabilities per pair,0,all,6,3, ,0.011854729115218074
+Bandwidth blocking probabilities per pair,0,all,12,7, ,0.7919470699536263
+Bandwidth blocking probabilities per pair,0,all,13,7, ,0.7012472543275714
+Bandwidth blocking probabilities per pair,0,all,10,9, ,0.0
+Bandwidth blocking probabilities per pair,0,all,6,12, ,0.04127405550954191
+Bandwidth blocking probabilities per pair,0,all,14,11, ,0.0
+Bandwidth blocking probabilities per pair,0,all,10,5, ,0.0
+Bandwidth blocking probabilities per pair,0,all,3,13, ,0.09765146194156345
+Bandwidth blocking probabilities per pair,0,all,14,4, ,0.16038650736575388
+Bandwidth blocking probabilities per pair,0,all,13,4, ,0.09930059849279145
+Bandwidth blocking probabilities per pair,0,all,1,2, ,0.0
+Bandwidth blocking probabilities per pair,0,all,12,10, ,0.0
+Bandwidth blocking probabilities per pair,0,all,4,13, ,0.054784337409905084
+Bandwidth blocking probabilities per pair,0,all,9,4, ,0.2781232947609633
+Bandwidth blocking probabilities per pair,0,all,1,13, ,0.48932674546339505
+Bandwidth blocking probabilities per pair,0,all,9,10, ,0.03373256465110291
+Bandwidth blocking probabilities per pair,0,all,11,13, ,0.0
+Bandwidth blocking probabilities per pair,0,all,13,9, ,0.0
+Bandwidth blocking probabilities per pair,0,all,7,11, ,0.6922587444190594
+Bandwidth blocking probabilities per pair,0,all,8,7, ,0.0
+Bandwidth blocking probabilities per pair,0,all,3,9, ,0.3431667628317123
+Bandwidth blocking probabilities per pair,0,all,4,8, ,0.17512096136383176
+Bandwidth blocking probabilities per pair,0,all,11,3, ,0.5189244045720036
+Bandwidth blocking probabilities per pair,0,all,3,12, ,0.756078920013085
+Bandwidth blocking probabilities per pair,0,all,11,14, ,0.0
+Bandwidth blocking probabilities per pair,0,all,14,5, ,0.9455078860999632
+Bandwidth blocking probabilities per pair,0,all,3,6, ,0.07007963206313803
+Bandwidth blocking probabilities per pair,0,all,6,10, ,0.02065641745754953
+Bandwidth blocking probabilities per pair,0,all,6,1, ,0.057753435488762224
+Bandwidth blocking probabilities per pair,0,all,11,5, ,0.24911419472983684
+Bandwidth blocking probabilities per pair,0,all,10,4, ,0.11029759709828002
+Bandwidth blocking probabilities per pair,0,all,5,11, ,0.16569253077202256
+Bandwidth blocking probabilities per pair,0,all,13,14, ,0.0
+Bandwidth blocking probabilities per pair,0,all,10,11, ,0.030909133790208203
+Bandwidth blocking probabilities per pair,0,all,14,10, ,0.3205282879030337
+Bandwidth blocking probabilities per pair,0,all,5,14, ,0.8225747134564058
+Bandwidth blocking probabilities per pair,0,all,8,12, ,0.4854569561629597
+Bandwidth blocking probabilities per pair,0,all,8,10, ,0.4739876959679174
+Bandwidth blocking probabilities per pair,0,all,3,4, ,0.07196092947325679
+Bandwidth blocking probabilities per pair,0,all,3,14, ,0.0
+Bandwidth blocking probabilities per pair,0,all,6,8, ,0.5814910067008384
+Bandwidth blocking probabilities per pair,0,all,6,14, ,0.022464197145386076
+Bandwidth blocking probabilities per pair,0,all,12,8, ,0.5588413277792365
+Bandwidth blocking probabilities per pair,0,all,10,6, ,0.11034882399171461
+Bandwidth blocking probabilities per pair,0,all,14,7, ,0.678295667679561
+Bandwidth blocking probabilities per pair,0,all,2,1, ,0.0
+Bandwidth blocking probabilities per pair,0,all,14,9, ,0.0
+Bandwidth blocking probabilities per pair,0,all,3,8, ,0.9390585992603636
+Bandwidth blocking probabilities per pair,0,all,12,2, ,0.4625675669613067
+Bandwidth blocking probabilities per pair,0,all,13,3, ,0.15862767757424412
+Bandwidth blocking probabilities per pair,0,all,1,5, ,0.08887192998763653
+Bandwidth blocking probabilities per pair,0,all,2,5, ,0.005777765472926112
+Bandwidth blocking probabilities per pair,0,all,2,14, ,0.7937279721463646
+Bandwidth blocking probabilities per pair,0,all,14,6, ,0.05236711592706762
+Bandwidth blocking probabilities per pair,0,all,10,3, ,0.0
+Bandwidth blocking probabilities per pair,0,all,10,12, ,0.0
+Bandwidth blocking probabilities per pair,0,all,4,14, ,0.3244293573150002
+Bandwidth blocking probabilities per pair,0,all,7,4, ,0.08957129768241358
+
+
+Bandwidth blocking probabilities per bandwidth,0,100.0Gbps,all,all, ,0.26568748290865
+
+
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,5,1, ,0.13934213332874396
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,9,14, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,9,5, ,0.6495802299116304
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,13,2, ,0.5159730260433162
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,14,3, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,2,8, ,0.7875122029272271
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,7,9, ,0.25705292812034897
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,3,1, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,4,2, ,0.02574383957571755
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,7,3, ,0.72145770000576
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,11,8, ,0.4361198416754709
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,7,1, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,3,10, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,14,13, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,4,12, ,0.03174309309066136
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,8,11, ,0.34467153583505833
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,8,6, ,0.5276827069083474
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,1,10, ,0.6043162295359901
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,9,11, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,5,7, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,12,3, ,0.7993361523429254
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,4,5, ,0.024506695105576966
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,13,6, ,0.13464643271518784
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,5,3, ,0.32369678961891307
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,7,14, ,0.6066639872595648
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,1,8, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,1,12, ,0.4664068144585129
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,9,8, ,0.05645699895075508
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,7,5, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,8,9, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,11,4, ,0.052252385028867296
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,13,5, ,0.7860756504555376
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,10,13, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,3,7, ,0.6671000251833977
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,10,7, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,8,5, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,10,1, ,0.7320502446462706
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,11,6, ,0.0428209623583405
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,5,6, ,0.11858234639449754
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,9,2, ,0.9130464477146683
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,12,13, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,6,11, ,0.011380131187389486
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,3,11, ,0.446997795199067
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,5,4, ,0.03812456046768108
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,4,3, ,0.033980622160031636
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,4,9, ,0.32467845201939366
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,11,2, ,0.279387532476734
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,4,6, ,0.05388934294800106
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,5,8, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,12,4, ,0.07738968813007865
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,2,3, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,13,1, ,0.4386331877964111
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,1,11, ,0.4450236447775861
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,8,14, ,0.4680590625870611
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,12,14, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,8,4, ,0.1538220288424623
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,4,7, ,0.0063038341737086025
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,8,1, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,2,13, ,0.6326856019606042
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,7,8, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,6,9, ,0.09102615242206503
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,5,2, ,0.1805432276370746
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,8,3, ,0.9322812267544206
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,14,1, ,0.6830982499546173
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,12,1, ,0.42643775651546356
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,5,12, ,0.8492888693770891
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,6,13, ,0.08158823101274106
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,12,9, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,1,14, ,0.7487297546009418
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,10,2, ,0.659840429881721
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,10,8, ,0.5024300499463519
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,12,5, ,0.831583733063562
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,8,13, ,0.3751278132425758
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,1,7, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,9,1, ,0.03684627721080322
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,6,4, ,0.11989985426735007
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,14,2, ,0.888054142291852
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,7,12, ,0.7625645416434393
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,11,10, ,0.06739856303610776
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,1,9, ,0.0476088672434785
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,6,5, ,0.032366616648850564
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,7,10, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,12,11, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,9,3, ,0.3989666618584051
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,4,1, ,0.015649828981102523
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,7,6, ,0.03911390172936567
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,11,9, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,9,12, ,0.005080515246128789
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,5,13, ,0.7862472601006565
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,9,13, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,13,12, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,1,6, ,0.09057212768113038
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,2,9, ,0.7672316525535426
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,2,10, ,0.5723202817093982
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,1,3, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,9,6, ,0.039621797807824995
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,8,2, ,0.8049709907449089
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,13,11, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,5,10, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,7,2, ,0.6612195236756985
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,4,11, ,0.0045110332727076536
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,13,10, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,10,14, ,0.32373150641800363
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,12,6, ,0.05350363427080702
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,14,8, ,0.5083957824793389
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,2,7, ,0.7110736391129167
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,9,7, ,0.18308722289352053
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,4,10, ,0.02366492370038906
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,1,4, ,0.1409879096557903
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,2,12, ,0.7138349843789173
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,5,9, ,0.6312273045758106
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,11,7, ,0.6465539732291029
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,6,7, ,0.006745239130871124
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,2,4, ,0.052418829724737395
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,2,6, ,0.0297922886598574
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,6,2, ,0.042092779305269855
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,14,12, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,11,1, ,0.4641640008597924
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,3,5, ,0.3878429388318927
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,3,2, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,7,13, ,0.5236062420927551
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,2,11, ,0.4013350903191282
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,11,12, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,13,8, ,0.3300841190805327
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,6,3, ,0.011854729115218074
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,12,7, ,0.7919470699536263
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,13,7, ,0.7012472543275714
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,10,9, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,6,12, ,0.04127405550954191
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,14,11, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,10,5, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,3,13, ,0.09765146194156345
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,14,4, ,0.16038650736575388
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,13,4, ,0.09930059849279145
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,1,2, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,12,10, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,4,13, ,0.054784337409905084
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,9,4, ,0.2781232947609633
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,1,13, ,0.48932674546339505
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,9,10, ,0.03373256465110291
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,11,13, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,13,9, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,7,11, ,0.6922587444190594
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,8,7, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,3,9, ,0.3431667628317123
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,4,8, ,0.17512096136383176
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,11,3, ,0.5189244045720036
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,3,12, ,0.756078920013085
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,11,14, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,14,5, ,0.9455078860999632
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,3,6, ,0.07007963206313803
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,6,10, ,0.02065641745754953
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,6,1, ,0.057753435488762224
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,11,5, ,0.24911419472983684
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,10,4, ,0.11029759709828002
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,5,11, ,0.16569253077202256
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,13,14, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,10,11, ,0.030909133790208203
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,14,10, ,0.3205282879030337
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,5,14, ,0.8225747134564058
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,8,12, ,0.4854569561629597
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,8,10, ,0.4739876959679174
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,3,4, ,0.07196092947325679
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,3,14, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,6,8, ,0.5814910067008384
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,6,14, ,0.022464197145386076
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,12,8, ,0.5588413277792365
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,10,6, ,0.11034882399171461
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,14,7, ,0.678295667679561
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,2,1, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,14,9, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,3,8, ,0.9390585992603636
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,12,2, ,0.4625675669613067
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,13,3, ,0.15862767757424412
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,1,5, ,0.08887192998763653
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,2,5, ,0.005777765472926112
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,2,14, ,0.7937279721463646
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,14,6, ,0.05236711592706762
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,10,3, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,10,12, ,0.0
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,4,14, ,0.3244293573150002
+Bandwidth blocking probabilities per pair and bandwidth,0,100.0Gbps,7,4, ,0.08957129768241358
+
+

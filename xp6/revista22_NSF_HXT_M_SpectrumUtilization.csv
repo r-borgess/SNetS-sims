@@ -1,0 +1,370 @@
+Metrics,LoadPoint,Link,Number of slots,Slot, ,rep0
+Utilization,0,all, - , - , ,1.3548116120575444
+
+
+Utilization Per Link,0,<4-11>, - , - , ,2.2434530150630794
+Utilization Per Link,0,<14-12>, - , - , ,0.0984011123773568
+Utilization Per Link,0,<6-14>, - , - , ,0.6964289032307006
+Utilization Per Link,0,<12-11>, - , - , ,1.3387938509561832
+Utilization Per Link,0,<12-14>, - , - , ,0.11956508274699795
+Utilization Per Link,0,<14-13>, - , - , ,1.7181485977600826
+Utilization Per Link,0,<6-10>, - , - , ,0.815073146863627
+Utilization Per Link,0,<11-4>, - , - , ,2.188844948469342
+Utilization Per Link,0,<1-2>, - , - , ,0.47820164626901074
+Utilization Per Link,0,<2-1>, - , - , ,0.5555349445049398
+Utilization Per Link,0,<1-3>, - , - , ,0.3379693229114416
+Utilization Per Link,0,<3-1>, - , - , ,0.2622338284115409
+Utilization Per Link,0,<2-3>, - , - , ,1.1495213866316785
+Utilization Per Link,0,<3-2>, - , - , ,1.058689209444107
+Utilization Per Link,0,<2-4>, - , - , ,2.6647619165590495
+Utilization Per Link,0,<4-2>, - , - , ,2.824142645674657
+Utilization Per Link,0,<13-9>, - , - , ,1.5900033135963771
+Utilization Per Link,0,<12-9>, - , - , ,1.76836986547456
+Utilization Per Link,0,<14-6>, - , - , ,0.7889655695668947
+Utilization Per Link,0,<1-8>, - , - , ,1.0588949930631588
+Utilization Per Link,0,<3-6>, - , - , ,1.1094278007632663
+Utilization Per Link,0,<4-5>, - , - , ,1.8852682774255383
+Utilization Per Link,0,<5-4>, - , - , ,1.9157388080960922
+Utilization Per Link,0,<6-3>, - , - , ,1.1530568699831836
+Utilization Per Link,0,<8-1>, - , - , ,1.1235799536714175
+Utilization Per Link,0,<10-9>, - , - , ,1.510553649291245
+Utilization Per Link,0,<5-6>, - , - , ,0.34688521950258233
+Utilization Per Link,0,<6-5>, - , - , ,0.30164750768013004
+Utilization Per Link,0,<10-7>, - , - , ,0.6181101972056101
+Utilization Per Link,0,<5-7>, - , - , ,2.344521572440835
+Utilization Per Link,0,<7-5>, - , - , ,2.2327562927360534
+Utilization Per Link,0,<10-6>, - , - , ,0.926903150084215
+Utilization Per Link,0,<13-11>, - , - , ,0.948525914180977
+Utilization Per Link,0,<7-8>, - , - , ,2.0340790989493183
+Utilization Per Link,0,<8-7>, - , - , ,1.9889381627192952
+Utilization Per Link,0,<8-9>, - , - , ,2.783407398920008
+Utilization Per Link,0,<9-8>, - , - , ,2.897795839114126
+Utilization Per Link,0,<13-14>, - , - , ,1.7533524613517952
+Utilization Per Link,0,<11-13>, - , - , ,1.050002012932494
+Utilization Per Link,0,<11-12>, - , - , ,1.3589267354573722
+Utilization Per Link,0,<9-10>, - , - , ,1.4877016029135324
+Utilization Per Link,0,<7-10>, - , - , ,0.6511690491526011
+Utilization Per Link,0,<9-13>, - , - , ,1.60833833985715
+Utilization Per Link,0,<9-12>, - , - , ,1.8250277165294477
+
+
+Utilization Per Slot,0,all, - ,1, ,-4.053348618480914
+Utilization Per Slot,0,all, - ,2, ,-3.5880746569850723
+Utilization Per Slot,0,all, - ,3, ,-3.52202682858713
+Utilization Per Slot,0,all, - ,4, ,-3.522745290582968
+Utilization Per Slot,0,all, - ,5, ,-3.55242970784047
+Utilization Per Slot,0,all, - ,6, ,-3.6187264078701995
+Utilization Per Slot,0,all, - ,7, ,-3.562685246078864
+Utilization Per Slot,0,all, - ,8, ,-3.469528427671823
+Utilization Per Slot,0,all, - ,9, ,-3.5198365330042067
+Utilization Per Slot,0,all, - ,10, ,-3.584964324645724
+Utilization Per Slot,0,all, - ,11, ,-3.4704304465725535
+Utilization Per Slot,0,all, - ,12, ,-3.548269835406888
+Utilization Per Slot,0,all, - ,13, ,-3.620180223601589
+Utilization Per Slot,0,all, - ,14, ,-3.4720475491211795
+Utilization Per Slot,0,all, - ,15, ,-3.5205572472320066
+Utilization Per Slot,0,all, - ,16, ,-3.5730601526112373
+Utilization Per Slot,0,all, - ,17, ,-3.502588940640174
+Utilization Per Slot,0,all, - ,18, ,-3.4221369627300655
+Utilization Per Slot,0,all, - ,19, ,-3.640038152809434
+Utilization Per Slot,0,all, - ,20, ,-3.4894854550859904
+Utilization Per Slot,0,all, - ,21, ,-3.3729223160151713
+Utilization Per Slot,0,all, - ,22, ,-3.607446104089153
+Utilization Per Slot,0,all, - ,23, ,-3.5596695074819147
+Utilization Per Slot,0,all, - ,24, ,-3.4412032324033115
+Utilization Per Slot,0,all, - ,25, ,-3.5769497572093947
+Utilization Per Slot,0,all, - ,26, ,-3.7600821163773297
+Utilization Per Slot,0,all, - ,27, ,-3.5313814740407743
+Utilization Per Slot,0,all, - ,28, ,-3.491529355591391
+Utilization Per Slot,0,all, - ,29, ,-3.4505623823208804
+Utilization Per Slot,0,all, - ,30, ,-3.5467191737011374
+Utilization Per Slot,0,all, - ,31, ,-3.6189899190097385
+Utilization Per Slot,0,all, - ,32, ,-3.4936092918081822
+Utilization Per Slot,0,all, - ,33, ,-3.490004594553202
+Utilization Per Slot,0,all, - ,34, ,-3.434198791001883
+Utilization Per Slot,0,all, - ,35, ,-3.456271790344231
+Utilization Per Slot,0,all, - ,36, ,-3.592162457995874
+Utilization Per Slot,0,all, - ,37, ,-3.5313071503860325
+Utilization Per Slot,0,all, - ,38, ,-3.464866307510743
+Utilization Per Slot,0,all, - ,39, ,-3.454188475779498
+Utilization Per Slot,0,all, - ,40, ,-3.5895082026288048
+Utilization Per Slot,0,all, - ,41, ,-3.7345215358420196
+Utilization Per Slot,0,all, - ,42, ,-3.495376167782272
+Utilization Per Slot,0,all, - ,43, ,-3.610258015693552
+Utilization Per Slot,0,all, - ,44, ,-3.6391316294447797
+Utilization Per Slot,0,all, - ,45, ,-3.6715491301880165
+Utilization Per Slot,0,all, - ,46, ,-3.5559184151494128
+Utilization Per Slot,0,all, - ,47, ,-3.6491641967189485
+Utilization Per Slot,0,all, - ,48, ,-3.7012234124016903
+Utilization Per Slot,0,all, - ,49, ,-3.512980738912262
+Utilization Per Slot,0,all, - ,50, ,-3.7525123647534704
+Utilization Per Slot,0,all, - ,51, ,-3.6390021261069716
+Utilization Per Slot,0,all, - ,52, ,-3.573197538760912
+Utilization Per Slot,0,all, - ,53, ,-3.760080990261349
+Utilization Per Slot,0,all, - ,54, ,-3.7535055990486574
+Utilization Per Slot,0,all, - ,55, ,-3.785568373257899
+Utilization Per Slot,0,all, - ,56, ,-3.930964585904632
+Utilization Per Slot,0,all, - ,57, ,-3.7629356942730245
+Utilization Per Slot,0,all, - ,58, ,-3.7652588715416977
+Utilization Per Slot,0,all, - ,59, ,-3.785470401167557
+Utilization Per Slot,0,all, - ,60, ,-3.7569706579220004
+Utilization Per Slot,0,all, - ,61, ,-3.731880793866722
+Utilization Per Slot,0,all, - ,62, ,-3.6211374221853854
+Utilization Per Slot,0,all, - ,63, ,-3.6929160548103166
+Utilization Per Slot,0,all, - ,64, ,-3.7105240042882492
+Utilization Per Slot,0,all, - ,65, ,-3.720254772479527
+Utilization Per Slot,0,all, - ,66, ,-3.6933574922748447
+Utilization Per Slot,0,all, - ,67, ,-3.583046549130188
+Utilization Per Slot,0,all, - ,68, ,-3.5308871091251426
+Utilization Per Slot,0,all, - ,69, ,-3.744464013837713
+Utilization Per Slot,0,all, - ,70, ,-3.770396212646733
+Utilization Per Slot,0,all, - ,71, ,-3.638816316970117
+Utilization Per Slot,0,all, - ,72, ,-3.6609433698795506
+Utilization Per Slot,0,all, - ,73, ,-3.6949453158079653
+Utilization Per Slot,0,all, - ,74, ,-3.5614071044405007
+Utilization Per Slot,0,all, - ,75, ,-3.643083170421888
+Utilization Per Slot,0,all, - ,76, ,-3.3847037414077352
+Utilization Per Slot,0,all, - ,77, ,-3.5263939063612035
+Utilization Per Slot,0,all, - ,78, ,-3.484314330501527
+Utilization Per Slot,0,all, - ,79, ,-3.5111237736596967
+Utilization Per Slot,0,all, - ,80, ,-3.596512644030234
+Utilization Per Slot,0,all, - ,81, ,-3.6640582066828227
+Utilization Per Slot,0,all, - ,82, ,-3.661357780560535
+Utilization Per Slot,0,all, - ,83, ,-3.773882667723714
+Utilization Per Slot,0,all, - ,84, ,-3.637487500112612
+Utilization Per Slot,0,all, - ,85, ,-3.7219867388582086
+Utilization Per Slot,0,all, - ,86, ,-3.7271522328627666
+Utilization Per Slot,0,all, - ,87, ,-3.63450554499509
+Utilization Per Slot,0,all, - ,88, ,-3.5442101872956098
+Utilization Per Slot,0,all, - ,89, ,-3.884025819587211
+Utilization Per Slot,0,all, - ,90, ,-3.634308474698426
+Utilization Per Slot,0,all, - ,91, ,-3.660409590904586
+Utilization Per Slot,0,all, - ,92, ,-3.860006891829803
+Utilization Per Slot,0,all, - ,93, ,-3.6931581697462184
+Utilization Per Slot,0,all, - ,94, ,-3.5988729831262782
+Utilization Per Slot,0,all, - ,95, ,-3.6206588228934873
+Utilization Per Slot,0,all, - ,96, ,-3.5536695615354814
+Utilization Per Slot,0,all, - ,97, ,-3.762091107287322
+Utilization Per Slot,0,all, - ,98, ,-3.660771074134467
+Utilization Per Slot,0,all, - ,99, ,-3.834232349258115
+Utilization Per Slot,0,all, - ,100, ,-3.6857731011432326
+Utilization Per Slot,0,all, - ,101, ,-3.6472824569148026
+Utilization Per Slot,0,all, - ,102, ,-3.675366663363393
+Utilization Per Slot,0,all, - ,103, ,-3.822370969630904
+Utilization Per Slot,0,all, - ,104, ,-3.6579524058341812
+Utilization Per Slot,0,all, - ,105, ,-3.6057929658291368
+Utilization Per Slot,0,all, - ,106, ,-3.824405861208458
+Utilization Per Slot,0,all, - ,107, ,-3.7303616634084378
+Utilization Per Slot,0,all, - ,108, ,-3.6815096260394053
+Utilization Per Slot,0,all, - ,109, ,-3.7514436806875615
+Utilization Per Slot,0,all, - ,110, ,-3.714143341050981
+Utilization Per Slot,0,all, - ,111, ,-3.8093632039350993
+Utilization Per Slot,0,all, - ,112, ,-3.730705128782623
+Utilization Per Slot,0,all, - ,113, ,-3.655702426104269
+Utilization Per Slot,0,all, - ,114, ,-3.7980254682390253
+Utilization Per Slot,0,all, - ,115, ,-3.728392086557779
+Utilization Per Slot,0,all, - ,116, ,-3.8192966730029463
+Utilization Per Slot,0,all, - ,117, ,-3.886589985675805
+Utilization Per Slot,0,all, - ,118, ,-3.6499344600499093
+Utilization Per Slot,0,all, - ,119, ,-3.6748340105044095
+Utilization Per Slot,0,all, - ,120, ,-3.7484245637426694
+Utilization Per Slot,0,all, - ,121, ,-3.8376929036675342
+Utilization Per Slot,0,all, - ,122, ,-3.7718657940018554
+Utilization Per Slot,0,all, - ,123, ,-3.562348537400564
+Utilization Per Slot,0,all, - ,124, ,-3.815681840704138
+Utilization Per Slot,0,all, - ,125, ,-3.7278819560184147
+Utilization Per Slot,0,all, - ,126, ,-3.4227236691561336
+Utilization Per Slot,0,all, - ,127, ,-3.7449977928126774
+Utilization Per Slot,0,all, - ,128, ,-3.9509576490301885
+Utilization Per Slot,0,all, - ,129, ,-3.8719482256916606
+Utilization Per Slot,0,all, - ,130, ,-3.511898541454581
+Utilization Per Slot,0,all, - ,131, ,-3.6935748326591655
+Utilization Per Slot,0,all, - ,132, ,-3.839636579850632
+Utilization Per Slot,0,all, - ,133, ,-3.568389023522311
+Utilization Per Slot,0,all, - ,134, ,-3.5190978009207123
+Utilization Per Slot,0,all, - ,135, ,-3.717035206890028
+Utilization Per Slot,0,all, - ,136, ,-3.7289979369555226
+Utilization Per Slot,0,all, - ,137, ,-3.636130530355582
+Utilization Per Slot,0,all, - ,138, ,-3.678363257988667
+Utilization Per Slot,0,all, - ,139, ,-3.918042405023378
+Utilization Per Slot,0,all, - ,140, ,-3.7818668300285587
+Utilization Per Slot,0,all, - ,141, ,-3.7480180358735504
+Utilization Per Slot,0,all, - ,142, ,-3.9357167953441863
+Utilization Per Slot,0,all, - ,143, ,-3.838076909217034
+Utilization Per Slot,0,all, - ,144, ,-3.795175268691273
+Utilization Per Slot,0,all, - ,145, ,-3.915251889622616
+Utilization Per Slot,0,all, - ,146, ,-3.8152066197601826
+Utilization Per Slot,0,all, - ,147, ,-3.7463401230619544
+Utilization Per Slot,0,all, - ,148, ,-3.8527040296934265
+Utilization Per Slot,0,all, - ,149, ,-3.859984369510185
+Utilization Per Slot,0,all, - ,150, ,-3.817276420933145
+Utilization Per Slot,0,all, - ,151, ,-3.867138584337078
+Utilization Per Slot,0,all, - ,152, ,-3.8034049242799615
+Utilization Per Slot,0,all, - ,153, ,-3.8545643732939343
+Utilization Per Slot,0,all, - ,154, ,-3.7209698561274225
+Utilization Per Slot,0,all, - ,155, ,-3.639896262195836
+Utilization Per Slot,0,all, - ,156, ,-3.89744686984802
+Utilization Per Slot,0,all, - ,157, ,-3.792014261132783
+Utilization Per Slot,0,all, - ,158, ,-3.774911937730291
+Utilization Per Slot,0,all, - ,159, ,-3.8334823560148106
+Utilization Per Slot,0,all, - ,160, ,-3.850423644832029
+Utilization Per Slot,0,all, - ,161, ,-3.881376068684066
+Utilization Per Slot,0,all, - ,162, ,-3.7320801163953474
+Utilization Per Slot,0,all, - ,163, ,-3.8485193827082638
+Utilization Per Slot,0,all, - ,164, ,-3.9635037071738095
+Utilization Per Slot,0,all, - ,165, ,-3.728502445923911
+Utilization Per Slot,0,all, - ,166, ,-3.7623940324861938
+Utilization Per Slot,0,all, - ,167, ,-3.862215205268421
+Utilization Per Slot,0,all, - ,168, ,-3.7675955622021426
+Utilization Per Slot,0,all, - ,169, ,-3.7019655228331274
+Utilization Per Slot,0,all, - ,170, ,-3.6661201250439186
+Utilization Per Slot,0,all, - ,171, ,-3.7944421671876833
+Utilization Per Slot,0,all, - ,172, ,-3.7181804668426413
+Utilization Per Slot,0,all, - ,173, ,-3.780052657183268
+Utilization Per Slot,0,all, - ,174, ,-4.015767875965081
+Utilization Per Slot,0,all, - ,175, ,-3.717449617571013
+Utilization Per Slot,0,all, - ,176, ,-3.8842791956829217
+Utilization Per Slot,0,all, - ,177, ,-3.79356154449059
+Utilization Per Slot,0,all, - ,178, ,-3.8364924640318554
+Utilization Per Slot,0,all, - ,179, ,-3.807292276646156
+Utilization Per Slot,0,all, - ,180, ,-3.8353134205998147
+Utilization Per Slot,0,all, - ,181, ,-3.8149937838397854
+Utilization Per Slot,0,all, - ,182, ,-3.7405642741957283
+Utilization Per Slot,0,all, - ,183, ,-3.5639374870496665
+Utilization Per Slot,0,all, - ,184, ,-3.7478006954892296
+Utilization Per Slot,0,all, - ,185, ,-3.7362625111485483
+Utilization Per Slot,0,all, - ,186, ,-3.8228563256186883
+Utilization Per Slot,0,all, - ,187, ,-3.8875066440842874
+Utilization Per Slot,0,all, - ,188, ,-3.925786704624283
+Utilization Per Slot,0,all, - ,189, ,-3.743372807452185
+Utilization Per Slot,0,all, - ,190, ,-3.804321582688444
+Utilization Per Slot,0,all, - ,191, ,-3.7643895100044142
+Utilization Per Slot,0,all, - ,192, ,-3.928434203295466
+Utilization Per Slot,0,all, - ,193, ,-3.696217826866425
+Utilization Per Slot,0,all, - ,194, ,-3.873009026945703
+Utilization Per Slot,0,all, - ,195, ,-3.8571476833542038
+Utilization Per Slot,0,all, - ,196, ,-3.833811181881244
+Utilization Per Slot,0,all, - ,197, ,-3.7964421491698275
+Utilization Per Slot,0,all, - ,198, ,-4.020517833172674
+Utilization Per Slot,0,all, - ,199, ,-3.996797326150215
+Utilization Per Slot,0,all, - ,200, ,-3.817680696570301
+Utilization Per Slot,0,all, - ,201, ,-3.8707140025765536
+Utilization Per Slot,0,all, - ,202, ,-3.9555803551319357
+Utilization Per Slot,0,all, - ,203, ,-3.8375194818064706
+Utilization Per Slot,0,all, - ,204, ,-3.8498763524652935
+Utilization Per Slot,0,all, - ,205, ,-3.928408302627904
+Utilization Per Slot,0,all, - ,206, ,-3.8830596120755665
+Utilization Per Slot,0,all, - ,207, ,-3.802499527031288
+Utilization Per Slot,0,all, - ,208, ,-3.929235997873893
+Utilization Per Slot,0,all, - ,209, ,-3.872469617390834
+Utilization Per Slot,0,all, - ,210, ,-3.6275574093927085
+Utilization Per Slot,0,all, - ,211, ,-3.8442773038080738
+Utilization Per Slot,0,all, - ,212, ,-3.9542504121584487
+Utilization Per Slot,0,all, - ,213, ,-3.6244527076332647
+Utilization Per Slot,0,all, - ,214, ,-3.7750650895036983
+Utilization Per Slot,0,all, - ,215, ,-3.7884861397645064
+Utilization Per Slot,0,all, - ,216, ,-3.9103330150178826
+Utilization Per Slot,0,all, - ,217, ,-3.820941928451095
+Utilization Per Slot,0,all, - ,218, ,-3.690619904325186
+Utilization Per Slot,0,all, - ,219, ,-3.8510272429978105
+Utilization Per Slot,0,all, - ,220, ,-3.7035454635543825
+Utilization Per Slot,0,all, - ,221, ,-3.7575888955955348
+Utilization Per Slot,0,all, - ,222, ,-3.800704498157674
+Utilization Per Slot,0,all, - ,223, ,-3.6990781614580053
+Utilization Per Slot,0,all, - ,224, ,-3.8211153503121595
+Utilization Per Slot,0,all, - ,225, ,-3.8025040314952117
+Utilization Per Slot,0,all, - ,226, ,-3.848827938487041
+Utilization Per Slot,0,all, - ,227, ,-3.9383169971441703
+Utilization Per Slot,0,all, - ,228, ,-3.7509526941198725
+Utilization Per Slot,0,all, - ,229, ,-3.8109645408599926
+Utilization Per Slot,0,all, - ,230, ,-3.747592364032757
+Utilization Per Slot,0,all, - ,231, ,-3.6722101602688264
+Utilization Per Slot,0,all, - ,232, ,-3.9260941342870783
+Utilization Per Slot,0,all, - ,233, ,-3.7506182376735344
+Utilization Per Slot,0,all, - ,234, ,-3.800269817389032
+Utilization Per Slot,0,all, - ,235, ,-3.9239477572274124
+Utilization Per Slot,0,all, - ,236, ,-3.834554418428663
+Utilization Per Slot,0,all, - ,237, ,-3.82848240105945
+Utilization Per Slot,0,all, - ,238, ,-3.8281276745254544
+Utilization Per Slot,0,all, - ,239, ,-3.6640131620435854
+Utilization Per Slot,0,all, - ,240, ,-3.7236826695255
+Utilization Per Slot,0,all, - ,241, ,-3.875421167376871
+Utilization Per Slot,0,all, - ,242, ,-3.6892527995243283
+Utilization Per Slot,0,all, - ,243, ,-3.72496869397573
+Utilization Per Slot,0,all, - ,244, ,-3.8937577138944697
+Utilization Per Slot,0,all, - ,245, ,-3.623764650768912
+Utilization Per Slot,0,all, - ,246, ,-4.070932919523248
+Utilization Per Slot,0,all, - ,247, ,-3.884682345204097
+Utilization Per Slot,0,all, - ,248, ,-3.726211926018684
+Utilization Per Slot,0,all, - ,249, ,-3.88710124233115
+Utilization Per Slot,0,all, - ,250, ,-3.7602161241790615
+Utilization Per Slot,0,all, - ,251, ,-3.9985923550238285
+Utilization Per Slot,0,all, - ,252, ,-3.8384293835190677
+Utilization Per Slot,0,all, - ,253, ,-3.8270026846604983
+Utilization Per Slot,0,all, - ,254, ,-3.82735290673057
+Utilization Per Slot,0,all, - ,255, ,-3.935862064305727
+Utilization Per Slot,0,all, - ,256, ,-3.828742533851046
+Utilization Per Slot,0,all, - ,257, ,-3.779133746542824
+Utilization Per Slot,0,all, - ,258, ,-3.8385273556094086
+Utilization Per Slot,0,all, - ,259, ,-3.7920176394807257
+Utilization Per Slot,0,all, - ,260, ,-3.926178592985649
+Utilization Per Slot,0,all, - ,261, ,-3.8889931171791243
+Utilization Per Slot,0,all, - ,262, ,-3.80252542769885
+Utilization Per Slot,0,all, - ,263, ,-3.8813794470320087
+Utilization Per Slot,0,all, - ,264, ,-3.8299981531697913
+Utilization Per Slot,0,all, - ,265, ,-3.9079377663264294
+Utilization Per Slot,0,all, - ,266, ,-3.8157922000702698
+Utilization Per Slot,0,all, - ,267, ,-3.9500499995495533
+Utilization Per Slot,0,all, - ,268, ,-3.596457464347168
+Utilization Per Slot,0,all, - ,269, ,-3.671412870154323
+Utilization Per Slot,0,all, - ,270, ,-3.9659203520689
+Utilization Per Slot,0,all, - ,271, ,-3.480408960279637
+Utilization Per Slot,0,all, - ,272, ,-3.660599904505365
+Utilization Per Slot,0,all, - ,273, ,-4.033649471626382
+Utilization Per Slot,0,all, - ,274, ,-3.6676685345177074
+Utilization Per Slot,0,all, - ,275, ,-3.761925568238124
+Utilization Per Slot,0,all, - ,276, ,-4.1009303970234505
+Utilization Per Slot,0,all, - ,277, ,-3.808322672768714
+Utilization Per Slot,0,all, - ,278, ,-3.7612318807938667
+Utilization Per Slot,0,all, - ,279, ,-4.084953063485915
+Utilization Per Slot,0,all, - ,280, ,-3.909570634498788
+Utilization Per Slot,0,all, - ,281, ,-3.6008448122088987
+Utilization Per Slot,0,all, - ,282, ,-3.8106999036044717
+Utilization Per Slot,0,all, - ,283, ,-3.8718434969054334
+Utilization Per Slot,0,all, - ,284, ,-3.6304684192034307
+Utilization Per Slot,0,all, - ,285, ,-3.79293655012117
+Utilization Per Slot,0,all, - ,286, ,-3.8681149268925505
+Utilization Per Slot,0,all, - ,287, ,-3.770562877811912
+Utilization Per Slot,0,all, - ,288, ,-3.985042927541193
+Utilization Per Slot,0,all, - ,289, ,-3.9487358221998
+Utilization Per Slot,0,all, - ,290, ,-3.9091697372095746
+Utilization Per Slot,0,all, - ,291, ,-3.8634809596309942
+Utilization Per Slot,0,all, - ,292, ,-3.806224718696228
+Utilization Per Slot,0,all, - ,293, ,-3.8485081215484547
+Utilization Per Slot,0,all, - ,294, ,-3.844707480112792
+Utilization Per Slot,0,all, - ,295, ,-3.776354492301871
+Utilization Per Slot,0,all, - ,296, ,-3.9410838641093324
+Utilization Per Slot,0,all, - ,297, ,-3.943955459860722
+Utilization Per Slot,0,all, - ,298, ,-3.946479085774002
+Utilization Per Slot,0,all, - ,299, ,-3.8879784866803
+Utilization Per Slot,0,all, - ,300, ,-3.9035492923487176
+Utilization Per Slot,0,all, - ,301, ,-3.989190412698985
+Utilization Per Slot,0,all, - ,302, ,-3.7362264754371584
+Utilization Per Slot,0,all, - ,303, ,-3.8071064675093016
+Utilization Per Slot,0,all, - ,304, ,-4.050847514887253
+Utilization Per Slot,0,all, - ,305, ,-3.9772614661129175
+Utilization Per Slot,0,all, - ,306, ,-3.80548260826479
+Utilization Per Slot,0,all, - ,307, ,-3.9298925234907793
+Utilization Per Slot,0,all, - ,308, ,-3.9849663516544895
+Utilization Per Slot,0,all, - ,309, ,-3.5688631183502855
+Utilization Per Slot,0,all, - ,310, ,-3.678708975594814
+Utilization Per Slot,0,all, - ,311, ,-4.159336402374754
+Utilization Per Slot,0,all, - ,312, ,-3.4835147881550617
+Utilization Per Slot,0,all, - ,313, ,-3.7419505229682617
+Utilization Per Slot,0,all, - ,314, ,-4.036619039468113
+Utilization Per Slot,0,all, - ,315, ,-3.852182637994252
+Utilization Per Slot,0,all, - ,316, ,-3.9029389374870496
+Utilization Per Slot,0,all, - ,317, ,-3.891430032161872
+Utilization Per Slot,0,all, - ,318, ,-3.848085828055603
+Utilization Per Slot,0,all, - ,319, ,-4.273786947865335
+Utilization Per Slot,0,all, - ,320, ,-4.592568985864992

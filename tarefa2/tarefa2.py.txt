@@ -1,0 +1,33 @@
+import matplotlib.pyplot as plt
+
+n = <qtd de nós na rede)
+
+loadPoints = <loadPoints>
+
+lambda = <arrivalRate>
+
+combinatoria = (n*(n-1))
+
+inc = <incremento>
+
+carga = []
+prob = []
+reps = []
+
+for(i = 0; i < loadPoints; i++)
+	carga[i] = combinatoria * (lambda + i*inc)
+	prob[i] = mean(reps[i])
+
+x = [ carga[0], carga[1], carga[2], carga[3] ]
+
+y = [ prob[0], prob[1], prob[2], prob[3] ]
+
+plt.plot(x, y, color= 'blue', linestyle= 'dashed', marker='o', markerfacecolor='red')
+
+
+plt.xlabel('Carga (Erlangs)')
+plt.ylabel('Probabilidade de bloqueio')
+
+plt.title('Evolução da probabilidade de bloqueio em função da carga')
+
+plt.show()

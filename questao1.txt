@@ -1,0 +1,14 @@
+import matplotlib.pyplot as plt
+
+x = [45500, 9100, 3640, 3640]
+
+y = [ 0.7993902196006536, 0.2616688137944703, 0.019819641264493114, 0.021702507184619958]
+
+
+plt.plot(x, y, linestyle = 'dashed', marker = 'o', markerfacecolor = 'red')
+
+
+plt.xlabel('Carga (Erlangs)')
+
+plt.ylabel('Probabilidade de Bloqueio')
+plt.show()
